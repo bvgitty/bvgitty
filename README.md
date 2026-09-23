@@ -1,7 +1,8 @@
 # Hi, I'm Balaji 👋
 
 I'm learning in public: working toward GitHub certifications and building projects along the way.
-
+- 📍 Based in California
+  
 ## What I'm working on
 - 🎯 Earning **GitHub Foundations (GH-900)**, then Actions, Copilot, Advanced Security and Administration
 - 🛠️ Building portfolio projects with Python, JavaScript and GitHub Actions
