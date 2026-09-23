@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Balaji 👋
 
-<!--
-**bvgitty/bvgitty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm learning in public: working toward GitHub certifications and building projects along the way.
 
-Here are some ideas to get you started:
+## What I'm working on
+- 🎯 Earning **GitHub Foundations (GH-900)**, then Actions, Copilot, Advanced Security and Administration
+- 🛠️ Building portfolio projects with Python, JavaScript and GitHub Actions
+- 📝 Logging what I learn in [dev-notes](https://github.com/bvgitty) (coming soon)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools I use
+`Git` · `GitHub CLI` · `VS Code` · `Copilot` · `Python`
+
+## Find me
+- LinkedIn: [https://www.linkedin.com/in/balajivijayakumar/](https://linkedin.com)
